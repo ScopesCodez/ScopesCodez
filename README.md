@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm Scoopy, or Scopes!
 
-- 🔭 I’m currently working on [Wosker](https://wokser.tech) and [Scopes Bot](https://scopes.cf)
+- 🔭 I’m currently working on [Scopes Bot](https://scopes.cf)
 - 🌱 I’m currently learning Java and Node Package / Modules
 - 💬 Ask me about Python and Node.js
 - 📫 How to reach me: [Discord](https://github.com/ScopesCodez#discord-profile)
