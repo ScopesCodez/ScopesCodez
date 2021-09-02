@@ -9,7 +9,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=ScopesCodez&style=flat-square&color=03fcf8)
+![](https://komarev.com/ghpvc/?username=ScopesCodez&style=flat-square&color=101012)
 
 # Languages and Tools:
 
