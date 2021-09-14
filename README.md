@@ -2,10 +2,9 @@
 ### I'm Scoopy, or Scopes!
 
 - 🔭 I’m currently working on [Scopes Bot](https://scopes.cf)
-- 🌱 I’m currently learning Java and Node Package / Modules
+- 🌱 I’m currently learning Java and Node Packages / Modules
 - 💬 Ask me about Python and Node.js
 - 📫 How to reach me: [Discord](https://github.com/ScopesCodez#discord-profile)
-- 🔗 My [portfolio](https://scoopydev.gq)
 
 
 
