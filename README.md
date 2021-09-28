@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Scopes Bot](https://scopes.cf) & [GlobalX Bot](https://globalx-bot.xyz/)
 - 🌱 I’m currently learning Java and Node Packages / Modules
 - 💬 Ask me about Python and Node.js
-- 📫 How to reach me: [Discord](https://github.com/ScopesCodez#discord-profile)
+- 📫 How to reach me: [Mail me](https://scoopydev.xyz/#contact) or reach me out on [Discord](https://github.com/ScopesCodez#discord-profile)!
 
 
 
