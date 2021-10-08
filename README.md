@@ -1,30 +1,36 @@
-### Hi there 👋
-### I'm Scoopy, or Scopes!
+<div align="center">
 
-- 🔭 I’m currently working on [Scopes Bot](https://scopes.cf) & [GlobalX Bot](https://globalx-bot.xyz/)
-- 🌱 I’m currently learning Java and Node Packages / Modules
-- 💬 Ask me about Python and Node.js
-- 📫 How to reach me: [Mail me](https://scoopydev.xyz/#contact) or reach me out on [Discord](https://github.com/ScopesCodez#discord-profile)!
+<h1>Hey, I'm <a href="https://scoopydev.xyz" target="_blank">Seif Wessam</a>! 👋</h1>
+I'm a young programmer who loves to learn new things and also very curious about everything.
+<br>
+<h3>Developer & Project Lead @ <a target="_blank" href="https://scopes.cf">Scopes</a> & <a target="_blank" href="https://booky.gq">Booky</a></h3>
+<h3>Developer & Project Manager @ <a target="_blank" href="https://globalx-bot.xyz">GlobalX</a></h3> 
+</div>
+<br>
+<br>
+<br>
 
+#### ❓ About me
+- I'm born and raised in [Egypt](https://en.wikipedia.org/wiki/Egypt).
+- I have a kitten called Soly. See a picture of him [here](https://cdn.discordapp.com/attachments/831216517919670302/886308025047081030/IMG_20210826_102447.jpg).
+- I use [Discord](https://discord.com/) and [Revolt](https://revolt.chat/) to communicate.
+- I recently started using [Twitter](https://twitter.com/).
+- You can email me [here](mailto:seif.wessam66@gmail.com).
 
+#### 🧰 Toolsbox:  
 
-![](https://komarev.com/ghpvc/?username=ScopesCodez&style=flat-square&color=101012)
+- <code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.png"></code>
+- <code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/vscode.png"></code>
+- <code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.png"></code>
+- <code><img height="25" src="https://cdn.worldvectorlogo.com/logos/npm-2.svg"></code>
+<code><img height="25" src="https://s3-us-west-2.amazonaws.com/assets.blog.serverless.com/express_js.png"></code>
 
-# Languages and Tools:
+|Discord Profile|Most Used Languages|
+|---------------|-------------------|
+|[<img src="https://lanyard-profile-readme.vercel.app/api/510736807999307786" height="180">](https://discord.com/users/510736807999307786)|[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScopesCodez&layout=compact&theme=dark" height="180" width="380">](https://github-readme-stats.vercel.app/api/top-langs/?username=ScopesCodez&layout=compact&theme=dark)|
 
-<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<br />
-<br />
-
-# Stats
-![Metrics](https://metrics.lecoq.io/ScopesCodez?template=classic&isocalendar=1&languages=1&stars=1&people=1&achievements=1&lines=1&pagespeed=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&stars.limit=4&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Africa%2FCairo&config.twemoji=true)
-# Discord Profile
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/510736807999307786)](https://discord.com/users/510736807999307786)
+#### 🌟 Other stuff
+![Metrics](https://metrics.lecoq.io/ScopesCodez?template=classic&repositories=10&repositories.batch=10&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&tweets=1&repositories=1&repositories=10&repositories.batch=10&repositories.forks=false&repositories.affiliations=owner&repositories.featured=ScopesCodez%2Fdiscordpy-cogs%2C%20ScopesCodez%2Fdiscordpy-pagination%2C%20ScopesCodez%2Fdiscordpy-eval-command&tweets.attachments=true&tweets.limit=3&tweets.user=ScopesCodez&config.timezone=Africa%2FCairo)
