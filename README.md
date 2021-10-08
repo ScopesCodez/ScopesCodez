@@ -28,6 +28,9 @@ I'm a young programmer who loves to learn new things and also very curious about
 - <code><img height="25" src="https://cdn.worldvectorlogo.com/logos/npm-2.svg"></code>
 <code><img height="25" src="https://s3-us-west-2.amazonaws.com/assets.blog.serverless.com/express_js.png"></code>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 |Discord Profile|Most Used Languages|
 |---------------|-------------------|
 |[<img src="https://lanyard-profile-readme.vercel.app/api/510736807999307786" height="180">](https://discord.com/users/510736807999307786)|[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScopesCodez&layout=compact&theme=dark" height="180" width="380">](https://github-readme-stats.vercel.app/api/top-langs/?username=ScopesCodez&layout=compact&theme=dark)|
