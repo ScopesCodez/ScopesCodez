@@ -5,9 +5,6 @@
 <div align="center">
 
 <h1>Hey, I'm <a href="https://scoopydev.xyz" target="_blank">Seif Wessam</a>! 👋</h1>
-<br>
-<h3>Developer & Project Lead @ <a target="_blank" href="https://scopes.cf">Scopes</a> & <a target="_blank" href="https://booky.gq">Booky</a></h3>
-<h3>Developer & Project Manager @ <a target="_blank" href="https://globalx-bot.xyz">GlobalX</a></h3> 
 </div>
 <br>
 <br>
