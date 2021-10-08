@@ -25,7 +25,7 @@
 <br>
 <p align="center">You can reach me out via <a href="mailto:seif.wessam66@gmail.com">mail</a> or <a href="https://twitter.com/ScopesCodez" target="_blank">Twitter</a></p>
 
-#### 📚 Experiences  
+# 📚 Experiences  
 
 - **Developer and project manager @ [GlobalX](https://globalx-bot.xyz)** • *September 25/2021 - Now*
 
