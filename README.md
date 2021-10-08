@@ -35,6 +35,9 @@ I'm a young programmer who loves to learn new things and also very curious about
 #### 📊 Activity
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 #### 🌟 Other stuff
