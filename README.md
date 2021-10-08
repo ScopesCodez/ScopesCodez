@@ -14,7 +14,7 @@ I'm a young programmer who loves to learn new things and also very curious about
 - I'm born and raised in [Egypt](https://en.wikipedia.org/wiki/Egypt).
 - I have a kitten called Soly. See a picture of him [here](https://cdn.discordapp.com/attachments/831216517919670302/886308025047081030/IMG_20210826_102447.jpg).
 - I use [Discord](https://discord.com/) and [Revolt](https://revolt.chat/) to communicate.
-- I recently started using [Twitter](https://twitter.com/).
+- Reach me out on [Twitter](https://twitter.com/).
 - You can email me [here](mailto:seif.wessam66@gmail.com).
 
 #### 🧰 Toolsbox:  
