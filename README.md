@@ -29,6 +29,9 @@ I'm a young programmer who loves to learn new things and also very curious about
 <code><img height="25" src="https://s3-us-west-2.amazonaws.com/assets.blog.serverless.com/express_js.png"></code>
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 |Discord Profile|Most Used Languages|
