@@ -5,6 +5,7 @@
 <div align="center">
 
 <h1>Hey, I'm <a href="https://scoopydev.xyz" target="_blank">Seif Wessam</a>! 👋</h1>
+  <img src="https://lanyard-profile-readme.vercel.app/api/510736807999307786" height="280">
 </div>
 <br>
 <br>
@@ -45,11 +46,6 @@
   I review Discord bots at stellar bot list and handle opened notes.
   
   Stellar Bot List is a Discord bots list where you can submit your Discord bot, then it goes through a verification process and then it's either approved or denied.
-
-
-|Discord Profile|Most Used Languages|
-|---------------|-------------------|
-|[<img src="https://lanyard-profile-readme.vercel.app/api/510736807999307786" height="180">](https://discord.com/users/510736807999307786)|[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScopesCodez&layout=compact&theme=dark" height="180" width="380">](https://github-readme-stats.vercel.app/api/top-langs/?username=ScopesCodez&layout=compact&theme=dark)|
 
 #### 📊 Activity
 
