@@ -41,7 +41,7 @@
   
   Scopes is a Discord bot that will help you manage your Discord server and it features almost eveything.
   
-- **Site moderator and Bots reviewer @ [StellarBotList](https://stellarbotlist.com)** • *July 30/2021 - Now*
+- **Site administrator and Bots reviewer @ [StellarBotList](https://stellarbotlist.com)** • *July 30/2021 - Now*
 
   I review Discord bots at stellar bot list and handle opened notes.
   
