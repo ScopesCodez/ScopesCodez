@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.discordapp.net/attachments/264445053596991498/900054843534757988/output-onlinegiftools.gif">
+<img src="https://cdn.discordapp.com/avatars/510736807999307786/a8779ff892c3e0eec243923b6e209e92.webp?size=128">
 </div>
   
 <div align="center">
