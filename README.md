@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://scoopydev.xyz/pfp">
+<img src="https://scoopydev.xyz/static/logo.jpeg">
 </div>
   
 <div align="center">
