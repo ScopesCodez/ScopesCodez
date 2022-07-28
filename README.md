@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://scoopydev.xyz/static/logo.jpeg">
+<img src="https://scoopydev.xyz/static/logo.jpeg" height="128" width="128">
 </div>
   
 <div align="center">
