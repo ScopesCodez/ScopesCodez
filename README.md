@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.discordapp.com/avatars/510736807999307786/a8779ff892c3e0eec243923b6e209e92.webp?size=128">
+<img src="https://scoopydev.xyz/pfp">
 </div>
   
 <div align="center">
