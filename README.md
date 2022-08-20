@@ -35,7 +35,7 @@
     
     I also act as a public representive on all our social medias.
     
-- **Leader, developer, project leader and CEO @ [Scopes](https://scopes.cf)** • *November 10/2018 - Now*
+- **Leader, developer, project leader and CEO @ [Scopes](https://scopes-bot.xyz)** • *November 10/2018 - Now*
 
   My job is to maintain, update and administrate the Discord bot "Scopes".
   
