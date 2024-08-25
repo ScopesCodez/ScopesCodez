@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://scoopydev.xyz/static/logo.jpeg" height="128" width="128">
+<img src="https://drive.google.com/file/d/1O-kt6vz6IAGwRHJ7weXwWEVDJFFX1TzB/view?usp=drive_link" height="128" width="128">
 </div>
   
 <div align="center">
