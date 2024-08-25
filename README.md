@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.skid.host/uploads/510736807999307786/tLxZBmTr5BG4.jpg" height="200" width="200">
+<img src="https://cdn.skid.host/uploads/510736807999307786/tLxZBmTr5BG4.jpg" height="220" width="200">
 </div>
   
 <div align="center">
